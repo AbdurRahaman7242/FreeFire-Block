@@ -1,6 +1,14 @@
 #Domain list of Free-Fire app use to connect with the sever(Bangladesh)
 
 
+  ff.garena.com
+
+  garenanow.com
+
+  ggbluefox.com
+
+  freefiremobile.com
+
   dl-cvs.ggbluefox.com
 
   dl-ctl.ggbluefox.com
